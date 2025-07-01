@@ -1,1 +1,1 @@
-print("Main entry point")
+print("Ready")
