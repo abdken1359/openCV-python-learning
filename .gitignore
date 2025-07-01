@@ -1,7 +1,8 @@
 # Ignore Python bytecode
 __pycache__/
 *.pyc
-
+photos/
+videos/
 # Ignore environment folder
 venv/
 

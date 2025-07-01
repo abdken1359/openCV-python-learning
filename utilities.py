@@ -9,7 +9,7 @@ def downloadTestImage():
     print("URL fetched.")
     if response.ok:
         time.sleep(1)
-        print("Response Sttus : OK")
+        print("Response Status : OK")
         with open("test.png","wb") as f:
             print("Writing image file")
             f.write(response.content)
